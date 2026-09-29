@@ -1,0 +1,13 @@
+DROP TABLE IF EXISTS bukti_laporan;
+DROP TABLE IF EXISTS laporan_ronda;
+DROP TABLE IF EXISTS foto_absensi;
+DROP TABLE IF EXISTS absensi;
+DROP TABLE IF EXISTS sesi_ronda;
+DROP TABLE IF EXISTS jadwal_ronda;
+DROP TABLE IF EXISTS petugas_regu;
+DROP TABLE IF EXISTS anggota_regu;
+DROP TABLE IF EXISTS regu;
+DROP TABLE IF EXISTS pengguna_peran;
+DROP TABLE IF EXISTS warga;
+DROP TABLE IF EXISTS pengguna;
+DROP TABLE IF EXISTS peran;
